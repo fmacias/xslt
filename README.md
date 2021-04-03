@@ -14,6 +14,6 @@ books in each genre should be listed.
 The file contains the genres and the books in each genre sorted by name.
 
 ```
-saxonb-xslt genres.xml booksGroupByGenre.xsl 
+$ saxonb-xslt genres.xml booksGroupByGenre.xsl 
 
 ```
